@@ -21,3 +21,6 @@ print(example_dict)
 #print dictionary element by element
 for x in example_dict.keys():
 	print(x,example_dict[x])
+
+#dictionaries are a list of Key and value pairs
+#call values with dict[name of key]
