@@ -19,13 +19,10 @@ print(x)
 x = 9
 x -=3 	#sets x = x - 3
 print(x)
-x = 9
 x *= 3 #sets x = x*3
 print(x)
-x = 9
 x /= 3 	#sets x = x/3
 print(x)
-x = 9
 x **= 3 #x = x ** 3
 
 #comparison operators
